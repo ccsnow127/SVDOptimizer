@@ -1,0 +1,9 @@
+streamlit
+streamlit_shadcn_ui
+langchain_openai
+datetime
+typing
+asyncio
+python-dotenv
+langchain-anthropic
+tavily-python
